@@ -1,0 +1,13 @@
+.pavi{
+	color:yellow;
+}
+.pavi:hover{
+	color:green ;
+}
+.lavanya{
+border: 10px solid transparent;
+  padding: 15px;
+}
+.lavanya:hover{
+display:none;
+}
